@@ -88,4 +88,4 @@ They will have an orientation day where they will show you how to walk to school
 
 ---
 # Banks
-Bank of America and Chase all have student accounts for people under 24. Just need to bring proof of student which is your admin card, passport, proof of residence (letter when you receive your SIM card)
+Bank of America and Chase all have student accounts for people under 24. Just need to bring proof of student which is your admin card, passport, proof of residence (letter when you receive your SIM card). They will not require a minimum balance until the date of your graduation which you can give whenever within a 4/5 year time period from when you create the account.
