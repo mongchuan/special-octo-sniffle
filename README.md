@@ -1,16 +1,16 @@
 # Table of Contents
-[Airlines](/report.md/#airlines)<br>
-[Housing](/report.md/#housing)<br>
-&nbsp;&nbsp;[Skyline Redmond](/report.md/#skyline-redmond)<br>
-&nbsp;&nbsp;[The Knoll](/report.md/#the-knoll)<br>
-&nbsp;&nbsp;[The Summit](/report.md/#the-summit)<br>
-&nbsp;&nbsp;[Shadowbrook](/report.md/#shadowbrook)<br>
-[Mobility Options](/report.md/#mobility-options-to-school)<br>
-&nbsp;&nbsp;[Shuttlebus](/report.md/#shuttle-bus)<br>
-&nbsp;&nbsp;[Scooter](/report.md/#scooter)<br>
-&nbsp;&nbsp;[Public Transport](/report.md/#public-transport)<br>
-&nbsp;&nbsp;[Car](/report.md/#car)<br>
-&nbsp;&nbsp;[Walk](/report.md/#walk)<br>
+[Airlines](/README.md/#airlines)<br>
+[Housing](/README.md/#housing)<br>
+&nbsp;&nbsp;[Skyline Redmond](/README.md/#skyline-redmond)<br>
+&nbsp;&nbsp;[The Knoll](/README.md/#the-knoll)<br>
+&nbsp;&nbsp;[The Summit](/README.md/#the-summit)<br>
+&nbsp;&nbsp;[Shadowbrook](/README.md/#shadowbrook)<br>
+[Mobility Options](/README.md/#mobility-options-to-school)<br>
+&nbsp;&nbsp;[Shuttlebus](/README.md/#shuttle-bus)<br>
+&nbsp;&nbsp;[Scooter](/README.md/#scooter)<br>
+&nbsp;&nbsp;[Public Transport](/README.md/#public-transport)<br>
+&nbsp;&nbsp;[Car](/README.md/#car)<br>
+&nbsp;&nbsp;[Walk](/README.md/#walk)<br>
 
 ---
 # Airlines
@@ -51,7 +51,7 @@ I got no friend there so no comments. Have fixed parking.
 
 ---
 # Mobility Options
-5 options: [Shuttlebus](/report.md/#shuttle-bus), [Scooter](/report.md/#scooter), [Public Transport](/report.md/#public-transport), [Car](/report.md/#car), [Walk](/report.md/#walk)
+5 options: [Shuttlebus](/README.md/#shuttle-bus), [Scooter](/README.md/#scooter), [Public Transport](/README.md/#public-transport), [Car](/README.md/#car), [Walk](/README.md/#walk)
 
 ## Shuttlebus
 https://calendly.com/dragonride but it opens exactly 72 hours before for each slot so need to snatch.
