@@ -13,6 +13,7 @@
 &nbsp;&nbsp;[Walk](/README.md/#walk)<br>
 [Things to do after you buy a car](/README.md/#things-to-do-after-you-buy-a-car)<br>
 [Banks](/README.md/#banks)<br>
+[Places to go](/README.md/#places-to-go)<br>
 
 ---
 # Airlines
@@ -89,3 +90,43 @@ They will have an orientation day where they will show you how to walk to school
 ---
 # Banks
 Bank of America and Chase all have student accounts for people under 24. Just need to bring proof of student which is your admin card, passport, proof of residence (letter when you receive your SIM card). They will not require a minimum balance until the date of your graduation which you can give whenever within a 4/5 year time period from when you create the account.
+
+---
+# Places to go
+Kerry Park at sunset to see the sunset on the Space Needle and the town
+
+Can get the city pass for the attractions but need select 5 or 4 places de out of the 6 iirc
+
+Go walk the pier
+
+Go to the pike place and see the pig then also go to the first starbucks (merch is all the original logo) and the gum wall.
+
+University of Washington Suzzallo Library is the harry potter movie location.
+
+Mount Rainier but need see if you all can climb and can rent gear below the mountain but need go back early. Or can just buy from Ross (thrift store all store different content). National park also got yearly pass, is worth if you go more than 4 or 5 times and for Mount Rainier is whole car get access. Check the national park website for status updates. Can go the skyline trail, but need check for status updates, https://www.alltrails.com/trail/us/washington/skyline-trail, this website has people posting everyday so you can judge yourself.
+
+Rent car from Enterprise, got one near school but need to book early. Enterprise cheaper than Hertz. Need international license cause they need an expiry date which our Driving license don’t have.
+
+Bellvue malls
+
+Redmond City Center
+
+Saturday Market opposite school(go one time can liao overpriced)
+
+Seattle premium outlet which is above the Redmond area.
+
+Leavenworth can stay multiple nights and explore the place and go reindeer farm or join water sports. Then come back by the southern route to north bend, there quite scenic.
+
+If buying expensive electronics, go Oregon cause there no tax on all items.
+
+Oregon got the Microsoft wall paper stone, cannon beach
+
+Bellvue gun range on weekday cause weekend foreigner cannot
+
+Boeing future of flight and Boeing museum of flight
+
+Microsoft Redmond store got a lot of merch there.
+
+If want go Canada can go eat, lunch lady but need reservation. US number is same as Canada number for reservation.
+
+4th of July is a good day to go out to see the fireworks and all but be prepared for the JAMMMMM, and if you drove you can take up to 3 hours to get out of the residential area that is near the old industrial area.
