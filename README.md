@@ -12,6 +12,7 @@
 &nbsp;&nbsp;[Car](/README.md/#car)<br>
 &nbsp;&nbsp;[Walk](/README.md/#walk)<br>
 [Things to do after you buy a car](/README.md/#things-to-do-after-you-buy-a-car)<br>
+[Banks](/README.md/#banks)<br>
 
 ---
 # Airlines
@@ -84,3 +85,7 @@ They will have an orientation day where they will show you how to walk to school
 1.	Buy insurance. Compare the big companies, state farm, all state, progressive, geico. Most that can buy progressive will buy it cause they big so slightly cheaper.
 2.	Buy Good to Go tag, https://wsdot.wa.gov/travel/roads-bridges/toll-roads-bridges-tunnels/good-go-accounts-passes, this is basically ERP. Buy the flexpass one not the sticker tag then do pay as you go, their charges can be delayed one but when you sell car you need take off the tag and remove the car plate from your account if you added the car plate also. Cause if you more than one person you can go into the high occupancy vehicle lane (HOV) when there is ERP and not get charged but only for some roads.
 3.	If you stay in skyline or going to the expressway from the Knoll to skyline side, READ THE SIGN, a lot people get horned at there.
+
+---
+# Banks
+Bank of America and Chase all have student accounts for people under 24. Just need to bring proof of student which is your admin card, passport, proof of residence (letter when you receive your SIM card)
