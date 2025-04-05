@@ -1,3 +1,5 @@
+---
+
 # Airlines
 Buy tickets about 3 months before once get visa. 
 
@@ -14,3 +16,22 @@ Student discounts are available on Singapore Airlines, Emirates, Cathay Pacific,
 2. Direct flight
 
    2.1. Nothing out of the ordinary for you.
+
+---
+# Housing
+All unsheltered parking lots are free for all. If got shelter is paid parking by per month so if you don’t have a lot number don’t use it. Will get towed.
+
+School parking can park anywhere that doesn’t say “Visitor”. Need to get sticker from the dragon shop.
+
+Wifi in the house is 1.2TB a month if you exceed you need to pay but they won’t tell you from which date to which date is a month. So if want to update your games or anything go to school and update or just go to the apartment housing office and use their wifi instead. Also some apartment wifi cannot submit work to school servers. This one all the lecturer (that I got last year) understand so they will give chance for the first time.
+
+Electric usage also monitored and mostly all apartments in the Summit housing get warning for it. But none of them seem to use excessively so dunno why.
+
+## Skyline Redmond
+Furthest to school but nearest to Redmond City Center. Buy car if you stay here, you got fixed parking also.
+## The Knoll
+Units normally have a staircase in the house. Have fixed parking.
+## The Summit
+Quite new apartments. Need to climb the summit to get to the shuttlebus. Or can cut through shadowbrook to walk to school but if muddy then your shoe will also gone. BBQ pit is at this location. Facilities they look the newest. No fixed lots.
+## Shadowbrook
+I got no friend there so no comments. Have fixed parking.
