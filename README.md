@@ -5,9 +5,14 @@
 &nbsp;&nbsp;[The Knoll](/report.md/#the-knoll)<br>
 &nbsp;&nbsp;[The Summit](/report.md/#the-summit)<br>
 &nbsp;&nbsp;[Shadowbrook](/report.md/#shadowbrook)<br>
+[Mobility Options](/report.md/#mobility-options-to-school)<br>
+&nbsp;&nbsp;[Shuttlebus](/report.md/#shuttle-bus)<br>
+&nbsp;&nbsp;[Scooter](/report.md/#scooter)<br>
+&nbsp;&nbsp;[Public Transport](/report.md/#public-transport)<br>
+&nbsp;&nbsp;[Car](/report.md/#car)<br>
+&nbsp;&nbsp;[Walk](/report.md/#walk)<br>
 
 ---
-
 # Airlines
 Buy tickets about 3 months before once get visa. 
 
@@ -43,3 +48,34 @@ Units normally have a staircase in the house. Have fixed parking.
 Quite new apartments. Need to climb the summit to get to the shuttlebus. Or can cut through shadowbrook to walk to school but if muddy then your shoe will also gone. BBQ pit is at this location. Facilities they look the newest. No fixed lots.
 ## Shadowbrook
 I got no friend there so no comments. Have fixed parking.
+
+---
+# Mobility Options
+5 options: [Shuttlebus](/report.md/#shuttle-bus), [Scooter](/report.md/#scooter), [Public Transport](/report.md/#public-transport), [Car](/report.md/#car), [Walk](/report.md/#walk)
+
+## Shuttlebus
+https://calendly.com/dragonride but it opens exactly 72 hours before for each slot so need to snatch.
+## Scooter
+https://unagiscooters.com/ worth the referral if a lot people using. At that time was 1 month free for both people the referral and referee.
+## Public Transport
+It is better to just walk to school or take a lime scooter on the uber app than to take the bus to redmond city center and back out to school.
+## Car
+Buy cars from Tacoma, Washington. The cars there are not very good looking, and some may be stolen but they are cheap and works for 3 months mainly. Don’t get luxury cars. Don’t get SUV. Buy a normal sedan that can get insurance. Insurance is mandatory, get state minimum. Then refund the remainder. Get international license. To process the refund you need to either have a bank account there or just deposit in friend account or bring back Singapore but you will lose like 150$usd on the cheque for clearance things.
+
+I bought the cars from Skyline Motors in Tacoma, Washington. Go to https://www.carsforsale.com/ to see what car you interested in.
+
+Go to https://www.kbb.com/ Kelly blue book, to see the book value of your car. This is roughly what you expecting to sell it back to the dealer. But if you sell to FB Marketplace you normally can just from the price of the car (not including sales tax and all) by like 20% got people will buy.
+
+When buy car there is a few cost, Car, Sales tax based on where you registering the car, car registration with temp plate and insurance. Everything besides insurance you just tell the dealer help you do. Will be faster if not you need ownself go DMV to register and cannot drive the car off the lot until you get temp plates.
+
+When you sell on FB marketplace, can ask them meet at Kirkland Costco which is near school also. Then around there got a DMV, Eastside Auto Licensing, https://www.eastsideautolicensing.com/ where you can go to do title transfer. The sales tax will be covered by the new owner. You just need to pay the title transfer which is 20+$. Ensure you do this if not the car still registered to you.
+
+If you get car, see if you got other people that wanna share groceries. Then you all can one week go one time Costco, get the membership buy in bulk then when you want to leave just go back and cancel. They will refund the whole membership. Pump petrol also go Costco pump, not 24 hours but it works. Some places the rates also cheaper one like Tacoma that side. But if you go to the seattle premium outlet the own gas station there is cheaper and 24 hours. Learn how to pump also. Costco ONLY takes visa cards, can use revolut, transferwise, YOUTRIP IS MASTERCARD.
+
+Most cars unlocks differently from Singapore, first unlock is driver only, second unlocks all door. Do not disable this functionality. If you drive alone to sketchy place this is to prevent anyone else getting in the car if you feel unsafe. 
+
+Most people also don’t use the hand brake when they park their car unless steep hill. If the car doesn’t have a hand brake and is auto but has a third pedal the third pedal is your hand brake. Step in to engage. To release step further in and release to disengage.
+## Walk
+They will have an orientation day where they will show you how to walk to school.
+
+
