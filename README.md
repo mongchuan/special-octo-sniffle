@@ -11,6 +11,7 @@
 &nbsp;&nbsp;[Public Transport](/README.md/#public-transport)<br>
 &nbsp;&nbsp;[Car](/README.md/#car)<br>
 &nbsp;&nbsp;[Walk](/README.md/#walk)<br>
+[Things to do after you buy a car](/README.md/#things-to-do-after-you-buy-a-car)<br>
 
 ---
 # Airlines
@@ -60,7 +61,7 @@ https://unagiscooters.com/ worth the referral if a lot people using. At that tim
 ## Public Transport
 It is better to just walk to school or take a lime scooter on the uber app than to take the bus to redmond city center and back out to school.
 ## Car
-Buy cars from Tacoma, Washington. The cars there are not very good looking, and some may be stolen but they are cheap and works for 3 months mainly. Don’t get luxury cars. Don’t get SUV. Buy a normal sedan that can get insurance. Insurance is mandatory, get state minimum. Then refund the remainder. Get international license. To process the refund you need to either have a bank account there or just deposit in friend account or bring back Singapore but you will lose like 150$usd on the cheque for clearance things.
+Buy cars from Tacoma, Washington. The cars there are not very good looking, and some may be stolen but they are cheap and works for 3 months mainly. Don’t get luxury cars. Don’t get SUV. Buy a normal sedan that can get insurance. Insurance is mandatory, get state minimum. Then refund the remainder. Get international license. To process the refund you need to either have a bank account there or just deposit in friend account or bring back Singapore but you will lose like 150$USD on the cheque for clearance things.
 
 I bought the cars from Skyline Motors in Tacoma, Washington. Go to https://www.carsforsale.com/ to see what car you interested in.
 
@@ -78,4 +79,8 @@ Most people also don’t use the hand brake when they park their car unless stee
 ## Walk
 They will have an orientation day where they will show you how to walk to school.
 
-
+---
+# Things to do after you buy a car
+1.	Buy insurance. Compare the big companies, state farm, all state, progressive, geico. Most that can buy progressive will buy it cause they big so slightly cheaper.
+2.	Buy Good to Go tag, https://wsdot.wa.gov/travel/roads-bridges/toll-roads-bridges-tunnels/good-go-accounts-passes, this is basically ERP. Buy the flexpass one not the sticker tag then do pay as you go, their charges can be delayed one but when you sell car you need take off the tag and remove the car plate from your account if you added the car plate also. Cause if you more than one person you can go into the high occupancy vehicle lane (HOV) when there is ERP and not get charged but only for some roads.
+3.	If you stay in skyline or going to the expressway from the Knoll to skyline side, READ THE SIGN, a lot people get horned at there.
