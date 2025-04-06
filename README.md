@@ -244,6 +244,8 @@ Some washing pods for clothes. But if no space, can go get Costco membership the
 
 Hangers if you don’t want to fold things or have a lot of things to hang. But can buy there also. Roughly they give like 10-15 per person but is rough number every house is different count so by luck. Clothes that cannot be put in dryer need put on hanger to dry in the house.
 
+If you like hot pot cause first few weeks are cold, or you want to have your friend group gather in your apartment can buy some HDL soup base from scarlett. Is about 50% to 150% more expensive in US.
+
 ---
 # Any other questions
 Just text me where you wanna go and if we have anything we had to watch out before hand lor. I will try rmb then tell you. But I think only national parks have things to watch out the rest don’t exactly have.
