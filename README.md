@@ -15,6 +15,9 @@
 [Banks](/README.md/#banks)<br>
 [Places to go](/README.md/#places-to-go)<br>
 [Car Rental](/README.md/#car-rental)<br>
+[To survive](/README.md/#to-survive)<br>
+[Phone Lines](/README.md/#phone-lines)<br>
+[Studies](/README.md/#studies)<br>
 
 ---
 # Airlines
@@ -136,3 +139,21 @@ Need get the crack windshield one and below 25 need pay more for young driver. T
 
 Rent car from Enterprise, got one near school but need to book early. Enterprise cheaper than Hertz. Need international license cause they need an expiry date which our Driving license don’t have.
 
+---
+# To survive
+KFC check the promotion, every Tuesday had one bucket 5 pcs for 10$ very worth.
+QFC is a supermarket, if you don’t have car or need something specific can get from here
+TraderJoe is more expensive QFC.
+Costco if you can buy everything here then good but all is bulk.
+
+---
+# Phone Lines
+Get mint mobile for 90 days is the cheapest based on what we checked. Mail it to your mailbox of your housing complex. You can order it like the day you reach or like 2 days before.
+
+---
+# Studies
+Go school library borrow the Texas Instruments Nspire cx II calculator for the math mod. Can help you do a lot of things if you know how to use it. Can use for Graphics quiz also if you can make a program or excel sheet that can do everything.
+
+Go to spirit week to get scales and the “things to do while as a digipen student” paper then you can see all the activities they recommend.
+
+Go to sports games and everything the school create if you got time, got minigolf and beach day de. But if you cannot do finish work then don’t go real.
