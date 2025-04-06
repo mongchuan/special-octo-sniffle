@@ -18,6 +18,7 @@
 [To survive](/README.md/#to-survive)<br>
 [Phone Lines](/README.md/#phone-lines)<br>
 [Studies](/README.md/#studies)<br>
+[Canteen Food](/README.md/#canteen-food)<br>
 
 ---
 # Airlines
@@ -157,3 +158,15 @@ Go school library borrow the Texas Instruments Nspire cx II calculator for the m
 Go to spirit week to get scales and the “things to do while as a digipen student” paper then you can see all the activities they recommend.
 
 Go to sports games and everything the school create if you got time, got minigolf and beach day de. But if you cannot do finish work then don’t go real.
+
+---
+# Canteen food
+https://digipenbytes.myshopify.com if got digiMac go and try it I never try before.
+
+![IMG_0276](https://github.com/user-attachments/assets/47271e1d-ee07-4261-b5b1-16e39d4b50f9)
+
+![IMG_0277](https://github.com/user-attachments/assets/4edf9a90-18c8-41e9-b83d-c7f244845b66)
+
+![IMG_0278](https://github.com/user-attachments/assets/c0c46adf-a66f-4128-b9b7-1e81348b9c07)
+
+![IMG_0279](https://github.com/user-attachments/assets/e0db53a6-c16d-435c-b797-8ab7f7a4d020)
