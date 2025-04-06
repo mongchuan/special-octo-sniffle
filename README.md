@@ -19,6 +19,17 @@
 [Phone Lines](/README.md/#phone-lines)<br>
 [Studies](/README.md/#studies)<br>
 [Canteen Food](/README.md/#canteen-food)<br>
+[Splitting the bill](/README.md/#splitting-the-bill)<br>
+[Taxes](/README.md/#taxes)<br>
+[Parking](/README.md/#parking)<br>
+[Maps](/README.md/#maps)<br>
+[Memberships](/README.md/#memberships)<br>
+[Professors](/README.md/#professors)<br>
+[Where to buy tech](/README.md/#where-to-buy-tech)<br>
+[Costco](/README.md/#costco)<br>
+[Gym](/README.md/#gym)<br>
+[Things to buy before going](/README.md/#things-to-buy-before-going)<br>
+[Any other questions](/README.md/#any-other-questions)<br>
 
 ---
 # Airlines
@@ -170,3 +181,71 @@ https://digipenbytes.myshopify.com if got digiMac go and try it I never try befo
 ![IMG_0278](https://github.com/user-attachments/assets/c0c46adf-a66f-4128-b9b7-1e81348b9c07)
 
 ![IMG_0279](https://github.com/user-attachments/assets/e0db53a6-c16d-435c-b797-8ab7f7a4d020)
+
+---
+# Splitting the bill
+Easier with Splitwise, so you can split evenly by the number of people you have in the group or how many people you select or by item. Then it can nett value for whole group or just you owe me how much I deduct off from the amount I owe you.
+
+---
+# Taxes
+Redmond and Kirkland mostly have no taxes on food that you need to cook yourself. Other things can be ranging from 6.5% to 10.4%. This one you can clarify on the website for sales tax. https://www.avalara.com/taxrates/en/state-rates/washington/cities/redmond.html or the base website which is https://www.avalara.com/taxrates/en/state-rates.html then search where you at to know the tax rates.
+
+---
+# Parking
+Seattle parking can use spothero, https://spothero.com/, to get better day rates. So like you park for a day at cheaper rates but is more for weekends only cause they is rent out office building parkings.
+
+Around Redmond and Kirkland and all smaller city parking is normally free. Roadside or mall also same just that you need look out for signs sometime at lift lobby that ask you to pay then that one is paid parking.
+
+---
+# Maps
+Always download google maps offline when going anywhere even if you using waze. If Waze is set, NEVER turn off the app even if you just stopping for breakfast or anything. Sometimes mid trip will not have network just keep driving, if you reset the app use back up google maps offline which is not as accurate. 
+
+---
+# Memberships
+Always use email aliases if possible. So lets just say your email is abc123@gmail.com and alias just adds +whateveryouwant to the email address so it will be abc123+whateveryouwant@gmail.com, it will still go to your main email but if you wanna complain using your member email your From needs to be edited to your email alias which can be done is all email settings menu. Some memberships don’t allow alias cause they don’t want you having multiple accounts like Nike is global accounts.
+
+Using alias also easy to know who leaked your email and can search easier on your email list sometimes cause some companies use 3rd party email platforms that don’t show their name normally until the email content.
+
+---
+# Prof
+Brandon Race Roberson: iirc worked for NASA goes hiking regularly very IT in the know.
+Alexander Young: Very good math prof he can reexplain in a different way to fit your thinking.
+Steve Rabin: His test has content that he will mention in class but not in his slides. If majority of the class slowly don't come then there will be no video recording.
+
+---
+# Where to buy tech
+Amazon first
+
+Walmart for cheaper electronics (best place if cannot find online deals)
+
+Newegg for computers
+
+Bestbuy is a no go
+
+Costco is sometimes the promotion is good cause they bulk but you don’t have every tech inside.
+
+---
+# Costco
+Every Costco is different. Around school got 2. Kirkland and Redmond, promotions for both are different cause different demographics. Redmond got more alcohol promotions when we went and wider range of liquor.
+
+If buying alcohol, whole group that goes in need to bring passport. Cashier can ask to verify for whole group. So if buying just one person go to cashier better, especially if you all member is one person but another person paying, just have the member take the persons card to go pay.
+
+---
+# Gym
+Nearest on the way to school with decent pricing is https://www.eastsidegym.com/ 
+
+---
+# Things to buy before going
+Some type B only travel adapters (cause more stable with 3rd pin). So that you can just plug it into the house and have it live in some of the plugs for ease.
+
+![image](https://github.com/user-attachments/assets/cb7b12e5-73a3-4e5b-af4b-2986be7c5e3d)
+
+Some washing pods for clothes. But if no space, can go get Costco membership then buy at Costco is about same price +/- 15% but if you buy elsewhere is more expensive like + 50%. Washing pods leave a plastic residue so you can choose to go there buy detergent and softener instead. Quite obvious on dark color clothes if the plastic of the washing pods dissolve.
+
+Hangers if you don’t want to fold things or have a lot of things to hang. But can buy there also. Roughly they give like 10-15 per person but is rough number every house is different count so by luck. Clothes that cannot be put in dryer need put on hanger to dry in the house.
+
+---
+# Any other questions
+Just text me where you wanna go and if we have anything we had to watch out before hand lor. I will try rmb then tell you. But I think only national parks have things to watch out the rest don’t exactly have.
+
+Or just leave an issue in the github repository.
