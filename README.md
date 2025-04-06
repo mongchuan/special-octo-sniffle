@@ -233,6 +233,8 @@ Every Costco is different. Around school got 2. Kirkland and Redmond, promotions
 
 If buying alcohol, whole group that goes in need to bring passport. Cashier can ask to verify for whole group. So if buying just one person go to cashier better, especially if you all member is one person but another person paying, just have the member take the persons card to go pay.
 
+You can choose to refund the membership at the end of your stay. Will go back to the card you paid with. Bring that card when you want to refund cause the system will check if the correct card presented.
+
 ---
 # Gym
 Nearest on the way to school with decent pricing is https://www.eastsidegym.com/ 
