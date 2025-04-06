@@ -32,6 +32,7 @@
 [Costco](/README.md/#costco)<br>
 [Gym](/README.md/#gym)<br>
 [Things to buy before going](/README.md/#things-to-buy-before-going)<br>
+[Food Recommendations](/README.md/#food-recommendations)<br>
 [Any other questions](/README.md/#any-other-questions)<br>
 
 ---
@@ -250,6 +251,20 @@ Some washing pods for clothes. But if no space, can go get Costco membership the
 Hangers if you don’t want to fold things or have a lot of things to hang. But can buy there also. Roughly they give like 10-15 per person but is rough number every house is different count so by luck. Clothes that cannot be put in dryer need put on hanger to dry in the house.
 
 If you like hot pot cause first few weeks are cold, or you want to have your friend group gather in your apartment can buy some HDL soup base from scarlett. Is about 50% to 150% more expensive in US.
+
+---
+# Food Recommendations
+Red Robin - https://maps.app.goo.gl/Sy7v4YaeJ5Xzogrz6 go try their seasoning with brussel sprouts and fries
+
+Chick-fil-a - closes on sundays though, but their spicy chicken sandwich is the spiciest burger we have tried which is still milder than McSpicy
+
+Papa Johns Pizza
+
+Mercury coffee was like cheaper starbucks but their drive thru is cheaper than that stores that have seats.
+
+Family Pancake House - https://maps.app.goo.gl/dBjorWe4rxG3EzG68 not the one in redmond city center but this one get the chicken and waffle very worth and crispy
+
+Molly Moon Ice Cream - https://maps.app.goo.gl/A4Hi9AnTf5trHPRK8 they got seasonal ice cream too. You may be interested in a shop around it too.
 
 ---
 # Any other questions
