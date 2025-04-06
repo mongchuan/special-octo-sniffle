@@ -244,6 +244,8 @@ Nearest on the way to school with decent pricing is https://www.eastsidegym.com/
 # Things to buy before going
 Some type B only travel adapters (cause more stable with 3rd pin). So that you can just plug it into the house and have it live in some of the plugs for ease.
 
+Not all plugs in USA takes type B some takes type A
+
 ![image](https://github.com/user-attachments/assets/cb7b12e5-73a3-4e5b-af4b-2986be7c5e3d)
 
 Some washing pods for clothes. But if no space, can go get Costco membership then buy at Costco is about same price +/- 15% but if you buy elsewhere is more expensive like + 50%. Washing pods leave a plastic residue so you can choose to go there buy detergent and softener instead. Quite obvious on dark color clothes if the plastic of the washing pods dissolve.
