@@ -1,4 +1,4 @@
-# Contribute back to this repo, just click the edit button beside this textbox to update, so everyone knows more, and when you "Commit changes..." it will you if you want to "Propose changes"
+# Contribute back to this repo, just click the edit button beside this textbox to update, so everyone knows more, and when you "Commit changes..." it will ask you if you want to "Propose changes"
 
 
 # Table of Contents
