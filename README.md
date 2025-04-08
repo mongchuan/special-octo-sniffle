@@ -230,6 +230,8 @@ Costco is sometimes the promotion is good cause they bulk but you don’t have e
 
 ---
 # Costco
+You can try to get the membership from https://www.myunidays.com/US/en-US/partners/costco/micro/online which gives students a $20 "gift" card, we never tried before so dont know about the refund policy.
+
 Every Costco is different. Around school got 2. Kirkland and Redmond, promotions for both are different cause different demographics. Redmond got more alcohol promotions when we went and wider range of liquor.
 
 If buying alcohol, whole group that goes in need to bring passport. Cashier can ask to verify for whole group. So if buying just one person go to cashier better, especially if you all member is one person but another person paying, just have the member take the persons card to go pay.
