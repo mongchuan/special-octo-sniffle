@@ -196,6 +196,8 @@ Redmond and Kirkland mostly have no taxes on food that you need to cook yourself
 
 ---
 # Parking
+Learn how to park head in, cause in a busy parking lot, everyone expects you to do that, (Also easier to load your car with what you bought when your trunk is facing the road). https://www.youtube.com/watch?v=FiAyYwRoJN8
+
 Seattle parking can use spothero, https://spothero.com/, to get better day rates. So like you park for a day at cheaper rates but is more for weekends only cause they is rent out office building parkings.
 
 Around Redmond and Kirkland and all smaller city parking is normally free. Roadside or mall also same just that you need look out for signs sometime at lift lobby that ask you to pay then that one is paid parking.
