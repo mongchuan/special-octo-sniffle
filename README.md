@@ -35,6 +35,8 @@
 [Food Recommendations](/README.md/#food-recommendations)<br>
 [Things to check when buying a car](/README.md/#things-to-check-when-buying-a-car)<br>
 [Price of car](/README.md/#price-of-car)<br>
+[Nextdoor](/README.md/#nextdoor)<br>
+[Phone](/README.md/#phone)<br>
 [Any other questions](/README.md/#any-other-questions)<br>
 
 ---
@@ -322,6 +324,14 @@ Reverse doesn't work.
 # Price of car
 ---
 To register the car to the school housing location it is 10.3% sales tax. So sticker price + 10.3% + registration (if you want them to help you) + title transfer. We would recommend getting a vehicle at roughly USD$3.5k - USD$4.0k sticker price, which including everything was USD$4.3k - USD$4.7k. Insurance is about USD$1.3k for under 25 year old and car is not on the list of easily stealable brand. 
+
+# Nextdoor
+---
+Join the community around your area to find activities or buy and sell cars or even furniture. Download the app if you are on Android (using apk). Apple need to change region to be able to use it. [https://nextdoor.com/](https://nextdoor.com/)
+
+# Phone
+---
+If you are using an iPhone, I would strongly recommend you to bring a Android device so that you can download the apk for apps. Like QFC where you can get discount on your groceries. Else you can change your region on your app/play store but Apple only allows you to change once every 6-12 months and iirc same for android.
 
 ---
 # Any other questions
