@@ -303,11 +303,15 @@ e) Get one friend in the car to sit with you. Slowly engage your gear and move o
 6. After leaving the lot, if there is a highway near the dealer then drive towards it, and get on the highway to ensure that you are able to get to highway speed and maintain it with ease. Get off at the next exit and drive around while going back to the lot.
 a) If you are at Tacoma Skyline, there is no highway nearby and the car some are very low on fuel so you can just try it on that road you leave the lot. If you stop at a traffic light, accelerate to the best ability of the car and try to be equivalent of highway speed so like 50/60 mph even for a while. BEWARE OF COPS when testing on that road don't get pulled over on a vehicle you don't own. You can drive the route in the following image. <br>
 
-7. Passenger should feel the car suspension see if smooth road but the suspensions don't seem to be working or not and guide the driver if y'all test first car. Try to drive the same route for all the vehicle you testing so you got a good way to compare. <br>
+7. Passenger should feel the car suspension see if smooth road but the suspensions don't seem to be working or not and guide the driver if y'all test first car. Try to drive the same route for all the vehicle you testing so you got a good way to compare. The route below should be able to warm the engine up for you to hear how it is whether it is smooth or sounds like it is having a hard time. <br>
+
+![Screenshot 2025-04-21 145319 edited](https://github.com/user-attachments/assets/2fa1c74e-b99f-4f30-9f72-c1d567a7afae) <br>
+![Screenshot 2025-04-21 145341](https://github.com/user-attachments/assets/0322a851-ec4b-46d9-a507-95c0aec306d6) <br>
+This is the parking lot that you will turn in to make a turn back. It should be long enough to have the engine warm. <br>
 
 8. Reverse back to the same lot if you drove forward when you left the lot. This is to test the reverse gear. <br>
 
-9. Discuss the pros and cons of the vehicles you have tested and discuss which you want to get. <br>
+9. Discuss the pros and cons of the vehicles you have tested and discuss which you want to get. Check the engine bay of the car you want to buy. Ensure that the dip stick and engine cap are there. If you remember any lights you can check with the sales person, like low tire pressure tehy can help you pump before you leave. ONLY COSTCO got free air pump if not all need to pay. <br>
 
 The following items are 100% deal breakers unless you are willing to pay fines.
 Loud exhaust sounds, so like exhausts without mufflers. Redmond has a dB cap when driving in the city center.
