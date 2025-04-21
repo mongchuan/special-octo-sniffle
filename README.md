@@ -33,6 +33,8 @@
 [Gym](/README.md/#gym)<br>
 [Things to buy before going](/README.md/#things-to-buy-before-going)<br>
 [Food Recommendations](/README.md/#food-recommendations)<br>
+[Things to check when buying a car](/README.md/#things-to-check-when-buying-a-car)<br>
+[Price of car](/README.md/#price-of-car)<br>
 [Any other questions](/README.md/#any-other-questions)<br>
 
 ---
@@ -88,6 +90,8 @@ Buy cars from Tacoma, Washington. The cars there are not very good looking, and 
 I bought the cars from Skyline Motors in Tacoma, Washington. Go to https://www.carsforsale.com/ to see what car you interested in.
 
 Go to https://www.kbb.com/ Kelly blue book, to see the book value of your car. This is roughly what you expecting to sell it back to the dealer. But if you sell to FB Marketplace you normally can just from the price of the car (not including sales tax and all) by like 20% got people will buy.
+
+Jump to [Things to check when buying a car](/README.md/#things-to-check-when-buying-a-car).
 
 When buy car there is a few cost, Car, Sales tax based on where you registering the car, car registration with temp plate and insurance. Everything besides insurance you just tell the dealer help you do. Will be faster if not you need ownself go DMV to register and cannot drive the car off the lot until you get temp plates.
 
@@ -271,6 +275,45 @@ Mercury coffee was like cheaper starbucks but their drive thru is cheaper than t
 Family Pancake House - https://maps.app.goo.gl/dBjorWe4rxG3EzG68 not the one in redmond city center but this one get the chicken and waffle very worth and crispy
 
 Molly Moon Ice Cream - https://maps.app.goo.gl/A4Hi9AnTf5trHPRK8 they got seasonal ice cream too. You may be interested in a shop around it too.
+
+---
+# Things to check when buying a car
+
+Go buy car in the morning so that point 4 is more useful and bring like 2 people with you.
+
+Above is the rough image by VICOM. Below is the suggested way for you to check the vehicle.
+
+1. Go look around the lot for a vehicle within your price range. Open doors to see the inside state and if there is smells in the car. Smoking smells are hard to get rid of. Look for tears or anything.
+
+2. After finding a car you want to test drive get the keys from the sales person and giving them to photocopy your passport and international license in case you run away.
+
+3. Unlock the car by the fob and key (normally the car in the lot are not locked to begin with). If passenger side has a key hole also try it and the trunk. Sometimes the key only works on the driver door then you can ask the person why. But most of the time they will just tell you that sold as-is.
+
+4. Start the engine. If it is a cold start (means no one started it recently and engine bay is not up to temperature) pay attention to the starting sound and see if it is a smooth crank or if the engine wants to stall mid crank, if so may be weak battery or bigger engine issue. If battery sign turns on in the dashboard then you have a low battery. 
+
+5. Leave the engine running while you do the following checks. Have a friend in front and a friend behind the car. <br>
+a) Steering wheel can do the full turn both to the left and to the right. (if you on the gravel just test while the car not moving if not do it as you roll out of the lot) <br>
+b) If have daytime running light then check that. Else turn on headlight to see the front headlight and back brake lights. Test the signals, check all signals works, so if the mirrors have the light bar also check that. <br>
+c) Check aircon and heater. Make sure there is no weird smell from the aircon after letting it run for a while. <br>
+d) Handbrake/Foot brake. Some of the automatic cars have a handbrake as a third pedal. <br>
+e) Get one friend in the car to sit with you. Slowly engage your gear and move off while testing the brake pedal. Before leaving the lot come to a COMPLETE stop so that the friend that is not inside the car can see if the brake light stays on or flickers when the car is bumpy. <br>
+
+6. After leaving the lot, if there is a highway near the dealer then drive towards it, and get on the highway to ensure that you are able to get to highway speed and maintain it with ease. Get off at the next exit and drive around while going back to the lot.
+a) If you are at Tacoma Skyline, there is no highway nearby and the car some are very low on fuel so you can just try it on that road you leave the lot. If you stop at a traffic light, accelerate to the best ability of the car and try to be equivalent of highway speed so like 50/60 mph even for a while. BEWARE OF COPS when testing on that road don't get pulled over on a vehicle you don't own. You can drive the route in the following image. <br>
+
+7. Reverse back to the same lot if you drove forward when you left the lot. This is to test the reverse gear.
+
+8. Discuss the pros and cons of the vehicles you have tested and discuss which you want to get.
+
+The following items are 100% deal breakers unless you are willing to pay fines.
+Loud exhaust sounds, so like exhausts without mufflers. Redmond has a dB cap when driving in the city center.
+If the steering wheel don't want to stay straight on a straight road.
+Skipping of gears for automatic. So like clearly 1st gear holds a higher RPM for a longer time then drops to 3rd gear lower RPM and totally skips 2nd gear multiple times.
+Reverse doesn't work.
+
+# Price of car
+---
+To register the car to the school housing location it is 10.3% sales tax. So sticker price + 10.3% + registration (if you want them to help you) + title transfer. We would recommend getting a vehicle at roughly USD$3.5k - USD$4.0k sticker price, which including everything was USD$4.3k - USD$4.7k. Insurance is about USD$1.3k for under 25 year old and car is not on the list of easily stealable brand. 
 
 ---
 # Any other questions
