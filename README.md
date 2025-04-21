@@ -281,6 +281,8 @@ Molly Moon Ice Cream - https://maps.app.goo.gl/A4Hi9AnTf5trHPRK8 they got season
 
 Go buy car in the morning so that point 4 is more useful and bring like 2 people with you.
 
+![0001-1500](https://github.com/user-attachments/assets/712161f6-7fb2-41f6-a222-8042038ff7d8)
+
 Above is the rough image by VICOM. Below is the suggested way for you to check the vehicle.
 
 1. Go look around the lot for a vehicle within your price range. Open doors to see the inside state and if there is smells in the car. Smoking smells are hard to get rid of. Look for tears or anything.
@@ -301,9 +303,11 @@ e) Get one friend in the car to sit with you. Slowly engage your gear and move o
 6. After leaving the lot, if there is a highway near the dealer then drive towards it, and get on the highway to ensure that you are able to get to highway speed and maintain it with ease. Get off at the next exit and drive around while going back to the lot.
 a) If you are at Tacoma Skyline, there is no highway nearby and the car some are very low on fuel so you can just try it on that road you leave the lot. If you stop at a traffic light, accelerate to the best ability of the car and try to be equivalent of highway speed so like 50/60 mph even for a while. BEWARE OF COPS when testing on that road don't get pulled over on a vehicle you don't own. You can drive the route in the following image. <br>
 
-7. Reverse back to the same lot if you drove forward when you left the lot. This is to test the reverse gear.
+7. Passenger should feel the car suspension see if smooth road but the suspensions don't seem to be working or not and guide the driver if y'all test first car. Try to drive the same route for all the vehicle you testing so you got a good way to compare.
 
-8. Discuss the pros and cons of the vehicles you have tested and discuss which you want to get.
+8. Reverse back to the same lot if you drove forward when you left the lot. This is to test the reverse gear.
+
+9. Discuss the pros and cons of the vehicles you have tested and discuss which you want to get.
 
 The following items are 100% deal breakers unless you are willing to pay fines.
 Loud exhaust sounds, so like exhausts without mufflers. Redmond has a dB cap when driving in the city center.
