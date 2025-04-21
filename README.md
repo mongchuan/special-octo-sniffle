@@ -303,11 +303,11 @@ e) Get one friend in the car to sit with you. Slowly engage your gear and move o
 6. After leaving the lot, if there is a highway near the dealer then drive towards it, and get on the highway to ensure that you are able to get to highway speed and maintain it with ease. Get off at the next exit and drive around while going back to the lot.
 a) If you are at Tacoma Skyline, there is no highway nearby and the car some are very low on fuel so you can just try it on that road you leave the lot. If you stop at a traffic light, accelerate to the best ability of the car and try to be equivalent of highway speed so like 50/60 mph even for a while. BEWARE OF COPS when testing on that road don't get pulled over on a vehicle you don't own. You can drive the route in the following image. <br>
 
-7. Passenger should feel the car suspension see if smooth road but the suspensions don't seem to be working or not and guide the driver if y'all test first car. Try to drive the same route for all the vehicle you testing so you got a good way to compare.
+7. Passenger should feel the car suspension see if smooth road but the suspensions don't seem to be working or not and guide the driver if y'all test first car. Try to drive the same route for all the vehicle you testing so you got a good way to compare. <br>
 
-8. Reverse back to the same lot if you drove forward when you left the lot. This is to test the reverse gear.
+8. Reverse back to the same lot if you drove forward when you left the lot. This is to test the reverse gear. <br>
 
-9. Discuss the pros and cons of the vehicles you have tested and discuss which you want to get.
+9. Discuss the pros and cons of the vehicles you have tested and discuss which you want to get. <br>
 
 The following items are 100% deal breakers unless you are willing to pay fines.
 Loud exhaust sounds, so like exhausts without mufflers. Redmond has a dB cap when driving in the city center.
