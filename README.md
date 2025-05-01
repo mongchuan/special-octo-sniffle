@@ -315,6 +315,8 @@ This is the parking lot that you will turn in to make a turn back. It should be 
 
 9. Discuss the pros and cons of the vehicles you have tested and discuss which you want to get. Check the engine bay of the car you want to buy. Ensure that the dip stick and engine cap are there. If you remember any lights you can check with the sales person, like low tire pressure tehy can help you pump before you leave. ONLY COSTCO got free air pump if not all need to pay. <br>
 
+10. Show interest in buying the vehicle and ask for a car history report, which is a VIN check. Ensure not marked as stolen vehicle or flood damaged, use this report to give to the person you selling to then you dunnid spend money printing it when you sell the car.
+
 The following items are 100% deal breakers unless you are willing to pay fines.
 Loud exhaust sounds, so like exhausts without mufflers. Redmond has a dB cap when driving in the city center.
 If the steering wheel don't want to stay straight on a straight road.
