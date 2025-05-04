@@ -246,6 +246,8 @@ If buying alcohol, whole group that goes in need to bring passport. Cashier can 
 
 You can choose to refund the membership at the end of your stay. Will go back to the card you paid with. Bring that card when you want to refund cause the system will check if the correct card presented.
 
+Costco ONLY accepts VISA based cards. They do not authorise any other network like mastercard or amex
+
 ---
 # Gym
 Nearest on the way to school with decent pricing is https://www.eastsidegym.com/ 
