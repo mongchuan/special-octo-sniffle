@@ -27,7 +27,7 @@
 [Parking](/README.md/#parking)<br>
 [Maps](/README.md/#maps)<br>
 [Memberships](/README.md/#memberships)<br>
-[Professors](/README.md/#professors)<br>
+[Professors](/README.md/#prof)<br>
 [Where to buy tech](/README.md/#where-to-buy-tech)<br>
 [Costco](/README.md/#costco)<br>
 [Gym](/README.md/#gym)<br>
