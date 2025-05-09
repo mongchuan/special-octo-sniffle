@@ -163,9 +163,12 @@ Rent car from Enterprise, got one near school but need to book early. Enterprise
 
 ---
 # To survive
-KFC check the promotion, every Tuesday had one bucket 5 pcs for 10$ very worth.
+KFC check the promotion, every Tuesday had one bucket 8 pcs for 10$ very worth.
+
 QFC is a supermarket, if you don’t have car or need something specific can get from here
+
 TraderJoe is more expensive QFC.
+
 Costco if you can buy everything here then good but all is bulk.
 
 ---
